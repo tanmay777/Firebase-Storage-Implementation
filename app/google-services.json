@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "836483852077",
+    "firebase_url": "https://fir-login-b7319.firebaseio.com",
+    "project_id": "fir-login-b7319",
+    "storage_bucket": "fir-login-b7319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836483852077:android:af463b282a1c457d",
+        "android_client_info": {
+          "package_name": "com.example.tanmayjha.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836483852077-vbp5d6uf0jqssaamdts6bj90fsckinje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanmayjha.firebaselogin",
+            "certificate_hash": "bdeac0b5672323b4deb57128ef3f5eab88d67066"
+          }
+        },
+        {
+          "client_id": "836483852077-ui4nsfuqlu4qfn2o77qhrf4flgac3mqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgvE__YmOFPngsdxx8YjECF16rPM9aZvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836483852077-ui4nsfuqlu4qfn2o77qhrf4flgac3mqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836483852077:android:cd9f2ba86d3dbf33",
+        "android_client_info": {
+          "package_name": "com.example.tanmay.firebasestorageimplementation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836483852077-lsmfks7dotp9k8tihi9nrn33h6ciu9f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanmay.firebasestorageimplementation",
+            "certificate_hash": "cf78be397490d9841d394bebcb00c6d708dacb10"
+          }
+        },
+        {
+          "client_id": "836483852077-ui4nsfuqlu4qfn2o77qhrf4flgac3mqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgvE__YmOFPngsdxx8YjECF16rPM9aZvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836483852077-ui4nsfuqlu4qfn2o77qhrf4flgac3mqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
